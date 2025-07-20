@@ -12,3 +12,4 @@ func main() {
 
 // dfgdfgfdgdfgfgdgdgdfg
 // puk //
+// 2 proverka//
