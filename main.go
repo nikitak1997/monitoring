@@ -9,6 +9,3 @@ func main() {
 	x1, x2 := 2, 4
 	test(&x1, &x2)
 }
-
-// dfgdfgfdgdfgfgdgdgdfg //
-// puk //
